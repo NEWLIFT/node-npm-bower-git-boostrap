@@ -1,0 +1,49 @@
+1。下载安装 nodejs
+
+去官网下载
+
+检测nodejs是否安装
+
+
+在cmd命令中 
+
+
+输入   node -v  显示当前版本
+
+显示版本号则是安装成功
+
+2。在cmd中 安装 bower
+
+bower是前端包管理工具
+
+安装插件 他会自动安装 依赖
+
+npm install -g bower  全局安装bower
+
+输入 bower help
+
+显示  如下类似的东西 是安装成功
+  -f, --force
+ -j, --json
+ -l, --loglevel
+ -o, --offline
+ -q, --quiet
+ -s, --silent
+ -V, --verbose
+ --allow-root
+ -v, --version
+ --no-color
+ 
+
+3.到git官网下载 git
+
+进入想要进入的硬盘
+
+cd "D:/xxxxx"
+
+
+4.安装 boostrap
+
+bower install bootstrap
+
+安装成功会在文件夹出现一个boostrap相关的文件
